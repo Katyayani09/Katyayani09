@@ -70,18 +70,29 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 
 ### 📚 &nbsp;Education
 - 🎓 **Master of Science in Business Analytics** - University of Illinois, Urbana-Champaign *(2023)*
+- 🎓 **Post Graduate in Data Science with specialization in Deep Learning** - IIIT Bengaluru *(2021)*
 - 🎓 **Bachelor of Technology in Computer Science and Engineering** - VIT University *(2019)*
-
 ---
 
 ### 💼 &nbsp;Work Experience
 
-#### **UnitedHealth Group** - Data Scientist *(Jul 2023 - Present)*
+#### **Eastern Companies** - Data Science (IT Systems & Business Efficiency Analysis)*(Mar 2025 - Present)*
+- Building AI ChatBot and Project Scheduling Assistant.
+
+#### **Skyzen Technology** - Data Scientist *(Jul 2023 - Feb 2025)*
 - Spearheaded predictive modeling projects, improving patient outcomes and resource allocation.
 - Reduced fraudulent claims by 28% using advanced ML techniques (SVMs, Isolation Forests).
 - Designed ETL pipelines with SQL, PySpark, and GCP, boosting policy renewals by 25%.
 
-#### **Seagate Technology** - Data Scientist *(Sep 2021 - Jul 2022)*
+#### **UIUC Athletics @ UIUC Business Practicum** - Data Analyst *(Aug 2022 - Dec 2022)*
+- Optimized supply chain processes, cutting lead times and inventory costs using ML models.
+- Reduced annual equipment downtime by 30% with predictive maintenance models on AWS.
+
+#### **Wolters Kluwer @ UIUC Business Practicum** - Data Analyst *(Jan 2023 - May 2023)*
+- Optimized supply chain processes, cutting lead times and inventory costs using ML models.
+- Reduced annual equipment downtime by 30% with predictive maintenance models on AWS.
+
+#### **Bhavana Infra** - Data Analysis Expert *(Sep 2021 - Jul 2022)*
 - Optimized supply chain processes, cutting lead times and inventory costs using ML models.
 - Reduced annual equipment downtime by 30% with predictive maintenance models on AWS.
 
